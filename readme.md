@@ -18,6 +18,7 @@ Example images and their resultant style transfered output can be found in the *
   * [SciPy](https://www.scipy.org/)
   * [imageio](https://imageio.github.io/)
   * [numpy](http://www.numpy.org/)
+  * [tqdm](https://github.com/tqdm/tqdm)
 
 You can use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies.
 
